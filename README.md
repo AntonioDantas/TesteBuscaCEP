@@ -1,4 +1,6 @@
-# TesteBuscaCEP
+# Teste Busca CEP Correios
+Tech Recruiter
+
 O candidato deverá desenvolver uma aplicação que realize uma busca no site dos correios por CEP e retorne o endereço do CEP pesquisado. Esta consulta deve ser gravada em um banco de dados, onde deverá registrar Data, Hora da Pesquisa, CEP pesquisado.
 
 Favor Rodar o script ScriptsBD.sql no SQLServer e verificar se confere o nome da instância localhost\SQLEXPRESS com a máquina local.
